@@ -1,1 +1,0 @@
-cmd_subsys/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o subsys/built-in.o subsys/bluetooth/built-in.o subsys/net/built-in.o subsys/logging/built-in.o subsys/debug/built-in.o 

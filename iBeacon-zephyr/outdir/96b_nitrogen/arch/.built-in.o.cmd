@@ -1,1 +1,0 @@
-cmd_arch/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o arch/built-in.o arch/arm/built-in.o 

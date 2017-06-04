@@ -1,1 +1,0 @@
-cmd_drivers/interrupt_controller/built-in.o :=  rm -f drivers/interrupt_controller/built-in.o; /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ar rcsD drivers/interrupt_controller/built-in.o

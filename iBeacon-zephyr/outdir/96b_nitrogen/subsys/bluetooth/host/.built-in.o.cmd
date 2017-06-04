@@ -1,1 +1,0 @@
-cmd_subsys/bluetooth/host/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o subsys/bluetooth/host/built-in.o subsys/bluetooth/host/uuid.o subsys/bluetooth/host/hci_core.o subsys/bluetooth/host/log.o 

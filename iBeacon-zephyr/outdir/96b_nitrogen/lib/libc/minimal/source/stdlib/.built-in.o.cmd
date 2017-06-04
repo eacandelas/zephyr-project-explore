@@ -1,1 +1,0 @@
-cmd_lib/libc/minimal/source/stdlib/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o lib/libc/minimal/source/stdlib/built-in.o lib/libc/minimal/source/stdlib/strtol.o lib/libc/minimal/source/stdlib/strtoul.o lib/libc/minimal/source/stdlib/atoi.o 
