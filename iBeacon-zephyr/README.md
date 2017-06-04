@@ -1,4 +1,4 @@
-#iBeacon-zephyr
+# iBeacon-zephyr
 
 This code is based on the samples/bluetooh/beacon.
 That code was not really an iBeacon from apple but an Eddystone-URL.
