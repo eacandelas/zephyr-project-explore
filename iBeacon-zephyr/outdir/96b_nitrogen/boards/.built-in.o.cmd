@@ -1,0 +1,1 @@
+cmd_boards/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o boards/built-in.o boards/arm/96b_nitrogen/built-in.o 

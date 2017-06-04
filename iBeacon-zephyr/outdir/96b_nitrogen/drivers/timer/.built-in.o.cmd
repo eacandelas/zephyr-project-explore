@@ -1,0 +1,1 @@
+cmd_drivers/timer/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/timer/built-in.o drivers/timer/nrf_rtc_timer.o drivers/timer/sys_clock_init.o 

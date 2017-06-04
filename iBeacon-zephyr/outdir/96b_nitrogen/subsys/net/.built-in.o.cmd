@@ -1,0 +1,1 @@
+cmd_subsys/net/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o subsys/net/built-in.o subsys/net/buf.o subsys/net/lib/built-in.o 

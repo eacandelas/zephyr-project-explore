@@ -1,0 +1,1 @@
+cmd_misc/generated/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o misc/generated/built-in.o misc/generated/configs.o misc/generated/sysgen/built-in.o 

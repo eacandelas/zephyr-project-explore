@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/built-in.o :=  /home/eden/dev/explore/zephyrSDK/sysroots/i686-pokysdk-linux/usr/bin/arm-poky-eabi/arm-poky-eabi-ld -nostartfiles -nodefaultlibs -nostdlib -static   -r -o drivers/bluetooth/built-in.o drivers/bluetooth/hci/built-in.o 
